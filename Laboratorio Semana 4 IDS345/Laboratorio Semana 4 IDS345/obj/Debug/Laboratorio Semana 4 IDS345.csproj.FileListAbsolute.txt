@@ -1,0 +1,13 @@
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Laboratorio Semana 4 IDS345\Laboratorio Semana 4 IDS345\bin\Debug\BDBonoDiaMadres.mdf
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Laboratorio Semana 4 IDS345\Laboratorio Semana 4 IDS345\bin\Debug\BDBonoDiaMadres_log.ldf
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Laboratorio Semana 4 IDS345\Laboratorio Semana 4 IDS345\bin\Debug\Laboratorio Semana 4 IDS345.exe.config
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Laboratorio Semana 4 IDS345\Laboratorio Semana 4 IDS345\bin\Debug\Laboratorio Semana 4 IDS345.exe
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Laboratorio Semana 4 IDS345\Laboratorio Semana 4 IDS345\bin\Debug\Laboratorio Semana 4 IDS345.pdb
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Laboratorio Semana 4 IDS345\Laboratorio Semana 4 IDS345\bin\Debug\log4net.dll
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Laboratorio Semana 4 IDS345\Laboratorio Semana 4 IDS345\bin\Debug\log4net.xml
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Laboratorio Semana 4 IDS345\Laboratorio Semana 4 IDS345\obj\Debug\Laboratorio Semana 4 IDS345.csproj.AssemblyReference.cache
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Laboratorio Semana 4 IDS345\Laboratorio Semana 4 IDS345\obj\Debug\Laboratorio Semana 4 IDS345.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Laboratorio Semana 4 IDS345\Laboratorio Semana 4 IDS345\obj\Debug\Laboratorio Semana 4 IDS345.csproj.CoreCompileInputs.cache
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Laboratorio Semana 4 IDS345\Laboratorio Semana 4 IDS345\obj\Debug\Laboratorio Semana 4 IDS345.csproj.CopyComplete
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Laboratorio Semana 4 IDS345\Laboratorio Semana 4 IDS345\obj\Debug\Laboratorio Semana 4 IDS345.exe
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Laboratorio Semana 4 IDS345\Laboratorio Semana 4 IDS345\obj\Debug\Laboratorio Semana 4 IDS345.pdb

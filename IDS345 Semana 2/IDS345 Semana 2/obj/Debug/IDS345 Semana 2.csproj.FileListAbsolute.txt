@@ -1,0 +1,10 @@
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\IDS345 Semana 2\IDS345 Semana 2\bin\Debug\BDRegistroSismoTurquia-Siria.mdf
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\IDS345 Semana 2\IDS345 Semana 2\bin\Debug\BDRegistroSismoTurquia-Siria_log.ldf
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\IDS345 Semana 2\IDS345 Semana 2\bin\Debug\IDS345 Semana 2.exe.config
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\IDS345 Semana 2\IDS345 Semana 2\bin\Debug\IDS345 Semana 2.exe
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\IDS345 Semana 2\IDS345 Semana 2\bin\Debug\IDS345 Semana 2.pdb
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\IDS345 Semana 2\IDS345 Semana 2\obj\Debug\IDS345 Semana 2.csproj.AssemblyReference.cache
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\IDS345 Semana 2\IDS345 Semana 2\obj\Debug\IDS345 Semana 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\IDS345 Semana 2\IDS345 Semana 2\obj\Debug\IDS345 Semana 2.csproj.CoreCompileInputs.cache
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\IDS345 Semana 2\IDS345 Semana 2\obj\Debug\IDS345 Semana 2.exe
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\IDS345 Semana 2\IDS345 Semana 2\obj\Debug\IDS345 Semana 2.pdb

@@ -1,0 +1,1 @@
+﻿2023-06-18 03:53:38,504 [1] INFO  Desarrollo_Semana_7_IDS345L.Form1 - Se ha agregado un nuevo registro.

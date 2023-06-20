@@ -1,0 +1,13 @@
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Laboratorio Semana 5 IDSL345\Laboratorio Semana 5 IDS345\bin\Release\Laboratorio Semana 5 IDS345.exe.config
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Laboratorio Semana 5 IDSL345\Laboratorio Semana 5 IDS345\bin\Release\Laboratorio Semana 5 IDS345.exe
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Laboratorio Semana 5 IDSL345\Laboratorio Semana 5 IDS345\bin\Release\Laboratorio Semana 5 IDS345.pdb
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Laboratorio Semana 5 IDSL345\Laboratorio Semana 5 IDS345\bin\Release\log4net.dll
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Laboratorio Semana 5 IDSL345\Laboratorio Semana 5 IDS345\bin\Release\log4net.xml
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Laboratorio Semana 5 IDSL345\Laboratorio Semana 5 IDS345\obj\Release\Laboratorio Semana 5 IDS345.csproj.AssemblyReference.cache
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Laboratorio Semana 5 IDSL345\Laboratorio Semana 5 IDS345\obj\Release\Laboratorio Semana 5 IDS345.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Laboratorio Semana 5 IDSL345\Laboratorio Semana 5 IDS345\obj\Release\Laboratorio_Semana_5_IDS345.Service1.resources
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Laboratorio Semana 5 IDSL345\Laboratorio Semana 5 IDS345\obj\Release\Laboratorio Semana 5 IDS345.csproj.GenerateResource.cache
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Laboratorio Semana 5 IDSL345\Laboratorio Semana 5 IDS345\obj\Release\Laboratorio Semana 5 IDS345.csproj.CoreCompileInputs.cache
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Laboratorio Semana 5 IDSL345\Laboratorio Semana 5 IDS345\obj\Release\Laboratorio Semana 5 IDS345.csproj.CopyComplete
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Laboratorio Semana 5 IDSL345\Laboratorio Semana 5 IDS345\obj\Release\Laboratorio Semana 5 IDS345.exe
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Laboratorio Semana 5 IDSL345\Laboratorio Semana 5 IDS345\obj\Release\Laboratorio Semana 5 IDS345.pdb

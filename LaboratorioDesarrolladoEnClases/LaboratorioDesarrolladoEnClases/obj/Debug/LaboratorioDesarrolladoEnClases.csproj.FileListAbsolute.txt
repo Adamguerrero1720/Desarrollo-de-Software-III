@@ -1,0 +1,10 @@
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\LaboratorioDesarrolladoEnClases\LaboratorioDesarrolladoEnClases\bin\Debug\BDRevisionColegios.mdf
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\LaboratorioDesarrolladoEnClases\LaboratorioDesarrolladoEnClases\bin\Debug\BDRevisionColegios_log.ldf
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\LaboratorioDesarrolladoEnClases\LaboratorioDesarrolladoEnClases\bin\Debug\LaboratorioDesarrolladoEnClases.exe.config
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\LaboratorioDesarrolladoEnClases\LaboratorioDesarrolladoEnClases\bin\Debug\LaboratorioDesarrolladoEnClases.exe
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\LaboratorioDesarrolladoEnClases\LaboratorioDesarrolladoEnClases\bin\Debug\LaboratorioDesarrolladoEnClases.pdb
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\LaboratorioDesarrolladoEnClases\LaboratorioDesarrolladoEnClases\obj\Debug\LaboratorioDesarrolladoEnClases.csproj.AssemblyReference.cache
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\LaboratorioDesarrolladoEnClases\LaboratorioDesarrolladoEnClases\obj\Debug\LaboratorioDesarrolladoEnClases.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\LaboratorioDesarrolladoEnClases\LaboratorioDesarrolladoEnClases\obj\Debug\LaboratorioDesarrolladoEnClases.csproj.CoreCompileInputs.cache
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\LaboratorioDesarrolladoEnClases\LaboratorioDesarrolladoEnClases\obj\Debug\LaboratorioDesarrolladoEnClases.exe
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\LaboratorioDesarrolladoEnClases\LaboratorioDesarrolladoEnClases\obj\Debug\LaboratorioDesarrolladoEnClases.pdb

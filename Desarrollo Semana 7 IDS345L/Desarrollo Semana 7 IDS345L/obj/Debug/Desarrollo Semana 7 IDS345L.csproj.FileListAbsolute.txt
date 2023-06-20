@@ -1,0 +1,140 @@
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\BDCaja.mdf
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\BDCaja_log.ldf
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\Desarrollo Semana 7 IDS345L.exe.config
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\Desarrollo Semana 7 IDS345L.exe
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\Desarrollo Semana 7 IDS345L.pdb
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\log4net.dll
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\log4net.xml
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\obj\Debug\Desarrollo Semana 7 IDS345L.csproj.AssemblyReference.cache
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\obj\Debug\Desarrollo Semana 7 IDS345L.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\obj\Debug\Desarrollo_Semana_7_IDS345L.Form1.resources
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\obj\Debug\Desarrollo_Semana_7_IDS345L.Properties.Resources.resources
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\obj\Debug\Desarrollo Semana 7 IDS345L.csproj.GenerateResource.cache
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\obj\Debug\Desarrollo Semana 7 IDS345L.csproj.CoreCompileInputs.cache
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\obj\Debug\Desarrollo Semana 7 IDS345L.csproj.CopyComplete
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\obj\Debug\Desarrollo Semana 7 IDS345L.exe
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\obj\Debug\Desarrollo Semana 7 IDS345L.pdb
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\EnvDTE.dll
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\stdole.dll
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\obj\Debug\Desarrollo_Semana_7_IDS345L.Form2.resources
+C:\Users\Adamg\Desktop\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\obj\Debug\Desarrollo_Semana_7_IDS345L.Form3.resources
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\BDCaja.mdf
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\BDCaja_log.ldf
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\Desarrollo Semana 7 IDS345L.exe.config
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\Desarrollo Semana 7 IDS345L.exe
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\Desarrollo Semana 7 IDS345L.pdb
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\log4net.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\EnvDTE.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\stdole.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\log4net.xml
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\obj\Debug\Desarrollo Semana 7 IDS345L.csproj.AssemblyReference.cache
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\obj\Debug\Desarrollo Semana 7 IDS345L.csproj.SuggestedBindingRedirects.cache
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\obj\Debug\Desarrollo_Semana_7_IDS345L.Form1.resources
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\obj\Debug\Desarrollo_Semana_7_IDS345L.Form2.resources
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\obj\Debug\Desarrollo_Semana_7_IDS345L.Form3.resources
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\obj\Debug\Desarrollo_Semana_7_IDS345L.Properties.Resources.resources
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\obj\Debug\Desarrollo Semana 7 IDS345L.csproj.GenerateResource.cache
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\obj\Debug\Desarrollo Semana 7 IDS345L.csproj.CoreCompileInputs.cache
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\obj\Debug\Desarrollo Semana 7 IDS345L.csproj.CopyComplete
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\obj\Debug\Desarrollo Semana 7 IDS345L.exe
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo Semana 7 IDS345L\Desarrollo Semana 7 IDS345L\obj\Debug\Desarrollo Semana 7 IDS345L.pdb
