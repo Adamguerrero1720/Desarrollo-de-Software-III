@@ -1,0 +1,13 @@
+﻿Installing assembly 'D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Servicio de windows\Servicio de windows\bin\Debug\Servicio de windows.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Servicio de windows\Servicio de windows\bin\Debug\Servicio de windows.InstallLog
+   assemblypath = D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Servicio de windows\Servicio de windows\bin\Debug\Servicio de windows.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Servicio de windows\Servicio de windows\bin\Debug\Servicio de windows.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Servicio de windows\Servicio de windows\bin\Debug\Servicio de windows.InstallLog
+   assemblypath = D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Servicio de windows\Servicio de windows\bin\Debug\Servicio de windows.exe

@@ -1,0 +1,14 @@
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Servicio de windows\Servicio de windows\bin\Debug\Servicio de windows.exe.config
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Servicio de windows\Servicio de windows\bin\Debug\Servicio de windows.exe
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Servicio de windows\Servicio de windows\bin\Debug\Servicio de windows.pdb
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Servicio de windows\Servicio de windows\bin\Debug\log4net.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Servicio de windows\Servicio de windows\bin\Debug\log4net.xml
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Servicio de windows\Servicio de windows\obj\Debug\Servicio de windows.csproj.AssemblyReference.cache
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Servicio de windows\Servicio de windows\obj\Debug\Servicio de windows.csproj.SuggestedBindingRedirects.cache
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Servicio de windows\Servicio de windows\obj\Debug\Servicio_de_windows.Service1.resources
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Servicio de windows\Servicio de windows\obj\Debug\Servicio de windows.csproj.GenerateResource.cache
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Servicio de windows\Servicio de windows\obj\Debug\Servicio de windows.csproj.CoreCompileInputs.cache
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Servicio de windows\Servicio de windows\obj\Debug\Servicio de windows.csproj.CopyComplete
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Servicio de windows\Servicio de windows\obj\Debug\Servicio de windows.exe
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Servicio de windows\Servicio de windows\obj\Debug\Servicio de windows.pdb
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Servicio de windows\Servicio de windows\obj\Debug\Servicio_de_windows.ProjectInstaller.resources
