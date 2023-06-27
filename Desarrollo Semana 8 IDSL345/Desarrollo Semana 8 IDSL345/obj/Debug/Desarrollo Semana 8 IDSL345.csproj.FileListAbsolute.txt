@@ -1,0 +1,73 @@
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\bin\Debug\BDAdmision.mdf
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\bin\Debug\BDAdmision_log.ldf
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\bin\Debug\Desarrollo Semana 8 IDSL345.exe.config
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\bin\Debug\Desarrollo Semana 8 IDSL345.exe
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\bin\Debug\Desarrollo Semana 8 IDSL345.pdb
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\obj\Debug\Desarrollo Semana 8 IDSL345.csproj.AssemblyReference.cache
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\obj\Debug\Desarrollo Semana 8 IDSL345.csproj.SuggestedBindingRedirects.cache
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\obj\Debug\Desarrollo_Semana_8_IDSL345.Form1.resources
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\obj\Debug\Desarrollo_Semana_8_IDSL345.Properties.Resources.resources
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\obj\Debug\Desarrollo Semana 8 IDSL345.csproj.GenerateResource.cache
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\obj\Debug\Desarrollo Semana 8 IDSL345.csproj.CoreCompileInputs.cache
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\obj\Debug\Desarrollo Semana 8 IDSL345.exe
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\obj\Debug\Desarrollo Semana 8 IDSL345.pdb
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\bin\Debug\EnvDTE.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\bin\Debug\stdole.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\obj\Debug\Desarrollo_Semana_8_IDSL345.Form2.resources
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\obj\Debug\Desarrollo Semana 8 IDSL345.csproj.CopyComplete
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\bin\Debug\AWSSDK.Core.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\bin\Debug\AWSSDK.Rekognition.dll
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\bin\Debug\AWSSDK.Core.pdb
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\bin\Debug\AWSSDK.Core.xml
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\bin\Debug\AWSSDK.Rekognition.pdb
+D:\3D Objects\C#\Desarrollo_Software_III\Desarrollo-de-Software-III\Desarrollo Semana 8 IDSL345\Desarrollo Semana 8 IDSL345\bin\Debug\AWSSDK.Rekognition.xml
